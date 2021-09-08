@@ -1,0 +1,127 @@
+body {
+  box-sizing: border-box;
+}
+.card {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  transition: all 0.5s ease;
+  box-sizing: border-box;
+  color: #111;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
+h4 {
+  padding-bottom: 5px;
+}
+
+img {
+  width: 70%;
+  height: 30vh;
+}
+#btn7 {
+  font-size: 30px;
+  position: relative;
+  left: 15px;
+  bottom: 50px;
+  cursor: pointer;
+  color: #555;
+}
+#btn8 {
+  font-size: 30px;
+  position: relative;
+  right: 10px;
+  bottom: 50px;
+  cursor: pointer;
+  color: #555;
+}
+.card a {
+  color: yellowgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+p {
+  font-size: 13px;
+}
+
+.card1 {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.card1:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
+.card2 {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.card2:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
+.card3 {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.card3:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
+.card4 {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.card4:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
+.card5 {
+  width: 20%;
+  height: 60vh;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.card5:hover {
+  transform: scale(1.01);
+  box-shadow: 0 5px 10px 2px #555;
+}
